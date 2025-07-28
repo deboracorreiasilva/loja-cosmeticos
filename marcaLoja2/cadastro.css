@@ -1,0 +1,143 @@
+.hea1{
+top: 0;
+left: 0;
+width: 100%;
+
+background-color: #4D55CC;
+
+color: white;
+
+padding: 10px 20px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 60px;
+padding: 30px;
+}
+.marca a{
+text-decoration: none;
+color: white;
+}
+
+.bt{
+float: left;
+}
+
+#btAcesso{
+background-color: #7A73D1;
+color: #D9D9D9;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+
+padding: 6px 14px;
+}
+
+#btLogIn{
+background-color: black;
+color: #D9D9D9;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+padding: 6px 14px;
+}
+.hea2{
+top: 0;
+left: 0;
+width: 100%;
+
+background-color: #B5A8D5;
+color: black;
+
+padding: 20px 40px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+height: 45px;
+}
+
+.hea2 button{
+background-color: #B5A8D5;
+color: black;
+border: 0px;
+font-size: 17px;
+}
+
+img{
+height: 45px;
+}
+
+body {
+            background-color: #7A73D1;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+}
+
+.container{
+    display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+
+}
+
+        .container_form {
+            background-color: #e0ddee;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 400px;
+            
+        }
+
+
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+
+
+        .form_grupo {
+            margin-bottom: 20px;
+        }
+
+
+        .form_label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: bold;
+        }
+
+
+        .form_input {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 8px;
+            background-color: #f3f1f9;
+            font-size: 14px;
+        }
+
+
+        .form_button {
+            width: 100%;
+            padding: 12px;
+            background-color: #a694f9;
+            border: none;
+            border-radius: 8px;
+            color: #fff;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+
+        .form_button:hover {
+            background-color: #8d7de5;
+        }
