@@ -121,22 +121,10 @@ body {
     color: white;
   }
   
-  .product-code {
-    color: #5d5c5e;
-    font-size: 0.9rem;
-    margin-bottom: 10px;
-  }
-  
   .preco {
     font-size: 2rem;
     color: white;
     margin: 10px 0;
-  }
-  
-  .avaliacoes {
-    color: #5d5c5e;
-    font-size: 1.2rem;
-    margin-bottom: 20px;
   }
   
   .descricao {

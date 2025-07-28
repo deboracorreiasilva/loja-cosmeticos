@@ -70,3 +70,4 @@ function subtotal(){ /*escolher um nome descente pra função*/
 	valor_frete = valor_frete.toFixed(2);
 	valor_frete = valor_frete.replace(".",",");
 	document.querySelector("#frete span").innerHTML= "R$ " + valor_frete;
+}
